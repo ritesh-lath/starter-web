@@ -1,3 +1,5 @@
+<This is conversation history for ChatGPT>
+
 Export this message to a PDF document
 Considering citation rules
 Okay, so I’m trying to understand how to apply citation rules. It seems like citations are needed only when external facts are referenced. But in this case, I think it’s safer if I skip citations altogether for now. I'm thinking I'll focus on just providing a concise mapping instead—detailing course title, sections, main deliverables, and time estimates. I should aim for about 6 core sections per module, but if needed, I can stretch it to 10. I'll make sure the headings are relevant to the specific topics. Let’s go ahead and prepare that.
