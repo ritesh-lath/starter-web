@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 # Adding section Description
 # Adding section for Deployment
 
+
+# Updated the file to understand git diff
+# Updated the file with another line to understand git diff
+
