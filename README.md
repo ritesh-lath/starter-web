@@ -17,4 +17,5 @@ Sample website with plenty of files for demos
 
 # Updated the file to understand git diff
 # Updated the file with another line to understand git diff
+# Updated the simple.html file with copyright notice
 
