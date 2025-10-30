@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ritesh Lath ritesh.eml67@iiitb.net
 
 # THANKS
 
-    <name>
+    ritesh lath
 
 # TECHNOLOGY COLOPHON
 
