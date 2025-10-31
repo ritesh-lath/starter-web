@@ -21,4 +21,5 @@ Sample website with plenty of files for demos
 # Please fork this repository and then issue pull request if you want to contribute
 # Checking and understanding rebasing example, more changes from myfeature branch too
 # Checking the stash command
+# Working with stash
 
