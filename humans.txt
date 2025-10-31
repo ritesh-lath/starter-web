@@ -13,3 +13,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# Please review the course and leave a rating once done
+
